@@ -8,5 +8,7 @@ It contains all the network infrastructure needed for the project.
 #### Server.yml and its parameter file
 This file contains the the servers needed for the web app
 
+#### Web-app Url
+http://serve-webap-5eozcu08s1g2-862711829.us-east-1.elb.amazonaws.com/
 
 
