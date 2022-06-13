@@ -1,7 +1,7 @@
 [
 	{
 		"ParameterKey": "EnvironmentName",
-		"ParameterValue": "UdacityProject"
+		"ParameterValue": "udacity_project2_high_available_web_app"
 	},
 	{
 		"ParameterKey": "VpcCIDR",
